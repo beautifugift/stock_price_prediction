@@ -11,4 +11,4 @@ goes up. We will maximize Our true positive rate, These are days when the stock 
 to achieve this, we need to minimize the false positive rate when the algorithm says the price will go up however, it actually
 goes down. We will be using this as the error metric
 
-Presion is the true positive rate divided by false positive rate plus true constant rate.
+Precision is the true positive rate divided by false positive rate plus true constant rate.
